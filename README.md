@@ -3,8 +3,9 @@
 
 <p align="center">
   <a href="https://github.com/malickadeen"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <a href="[https://www.linkedin.com/in/malick-adeen-ai/](https://www.linkedin.com/in/adeen-hassan-9714111bb/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/adeen-hassan-9714111bb/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.suitsconsultants.com"><img src="https://img.shields.io/badge/Website-suitsconsultants.com-0a0a0a?style=flat&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://automatic-meme.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-automatic--meme.vercel.app-ff69b4?style=flat&logo=vercel&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/YouTube-Launching Soon-red?style=flat&logo=youtube&logoColor=white" /></a>
 </p>
 
@@ -44,22 +45,14 @@ When ElevenLabs didn’t support forwarding, I reverse-engineered a solution wit
 Designed a scalable backend for private-document-powered assistants with live internet search fallback.  
 → *Stack:* FastAPI, LangChain, Pinecone, OpenAI, Chroma
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malickadeen&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malickadeen&layout=compact&theme=radical" height="180"/>
-</p>
-
----
 
 ### 📣 Let’s Work Together
 
 Need to automate your business or build AI agents for WhatsApp, web, or voice?
 
-📬 Message me on [LinkedIn](https://www.linkedin.com/in/adeen-hassan-9714111bb/)
+📬 Message me on [LinkedIn](https://www.linkedin.com/in/adeen-hassan-9714111bb/)  
+🌐 Visit [suitsconsultants.com](https://www.suitsconsultants.com)  
+🎯 Or check out my [Portfolio](https://automatic-meme.vercel.app/)
 
 ---
 
