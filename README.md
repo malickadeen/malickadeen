@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/malickadeen"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/malick-adeen-ai/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/malick-adeen-ai/](https://www.linkedin.com/in/adeen-hassan-9714111bb/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.suitsconsultants.com"><img src="https://img.shields.io/badge/Website-suitsconsultants.com-0a0a0a?style=flat&logo=google-chrome&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/YouTube-Launching Soon-red?style=flat&logo=youtube&logoColor=white" /></a>
 </p>
@@ -59,8 +59,7 @@ Designed a scalable backend for private-document-powered assistants with live in
 
 Need to automate your business or build AI agents for WhatsApp, web, or voice?
 
-📬 Message me on [LinkedIn](https://www.linkedin.com/in/malick-adeen-ai/)  
-🌐 Or visit [suitsconsultants.com](https://www.suitsconsultants.com)
+📬 Message me on [LinkedIn](https://www.linkedin.com/in/adeen-hassan-9714111bb/)
 
 ---
 
