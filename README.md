@@ -26,28 +26,44 @@
 🔄 n8n, LangChain         🧰 FastAPI, Python, Flask  
 📁 Pinecone, ChromaDB     🤖 RAG Systems, Real-Time Agents  
 🌐 Webhooks, REST APIs    🧾 PDF/Form Processing, Google Tools
-🚀 Featured Projects
-🔹 WhatsApp AI Agent
+```
 
-Built using OpenAI + Twilio + Google Search. It answers real-time queries, automates info gathering, and mimics human chat support.
-→ Stack: n8n, GPT-4, custom logic, and dynamic memory
+---
 
-🔹 Voice Assistant with Call Routing
+### 🚀 Featured Projects
 
-When ElevenLabs didn’t support forwarding, I reverse-engineered a solution with GPT-IVR logic for real-time voice agents.
-→ Stack: ElevenLabs, Twilio, memory layer, fallback flows
+🔹 **WhatsApp AI Agent**  
+Built using OpenAI + Twilio + Google Search. It answers real-time queries, automates info gathering, and mimics human chat support.  
+→ *Stack:* n8n, GPT-4, custom logic, and dynamic memory
 
-🔹 Advanced RAG Pipeline
+🔹 **Voice Assistant with Call Routing**  
+When ElevenLabs didn’t support forwarding, I reverse-engineered a solution with GPT-IVR logic for real-time voice agents.  
+→ *Stack:* ElevenLabs, Twilio, memory layer, fallback flows
 
-Designed a scalable backend for private-document-powered assistants with live internet search fallback.
-→ Stack: FastAPI, LangChain, Pinecone, OpenAI, Chroma
+🔹 **Advanced RAG Pipeline**  
+Designed a scalable backend for private-document-powered assistants with live internet search fallback.  
+→ *Stack:* FastAPI, LangChain, Pinecone, OpenAI, Chroma
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=malickadeen&show_icons=true&theme=radical" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malickadeen&layout=compact&theme=radical" height="180"/> </p>
-📣 Let’s Work Together
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malickadeen&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malickadeen&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+### 📣 Let’s Work Together
+
 Need to automate your business or build AI agents for WhatsApp, web, or voice?
 
-📬 Message me on LinkedIn
-🌐 Or visit suitsconsultants.com
+📬 Message me on [LinkedIn](https://www.linkedin.com/in/malick-adeen-ai/)  
+🌐 Or visit [suitsconsultants.com](https://www.suitsconsultants.com)
 
-<p align="center"> <i>“Don't hire a VA. Build one.”</i> </p> ```
+---
+
+<p align="center">
+  <i>“Don't hire a VA. Build one.”</i>
+</p>
